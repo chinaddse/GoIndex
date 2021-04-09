@@ -39,11 +39,11 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
     <div class="navSize">
-			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/sunpma/goIndex/images/icon.png"/></a>
+			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/xyzz-by/imge@main/logo.jpg"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://sunpma.com" target="_blank">博客</a></li>
-					<li class="menu_li"><a href="https://coffee.sunpma.com" target="_blank">导航</a></li>
+					<li class="menu_li"><a href="https://chjina.com" target="_blank">博客</a></li>
+					<li class="menu_li"><a href="https://home.chjina.com" target="_blank">导航</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
